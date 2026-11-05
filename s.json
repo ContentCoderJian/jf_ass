@@ -1,4 +1,5 @@
 [
   { "versionCode": 27, "versionName": "3.3.4", "force": false, "changelog": "1. 修复 11111111111111111xxx\n2. 优化 222222222222222222222222yyy" },
-  { "versionCode": 28, "versionName": "3.3.5", "force": false, "changelog": "1. 新增 z3433333333333333zz\n2. 优化 6666666666666666666666yyy\n3. 提高 6vvdddddddddddddddddd" }
+  { "versionCode": 28, "versionName": "3.3.5", "force": false, "changelog": "1. 新增 z3433333333333333zz\n2. 优化 6666666666666666666666yyy\n3. 提高 6vvdddddddddddddddddd" },
+  { "versionCode": 29, "versionName": "3.3.6", "force": false, "changelog": "1. 新增 z34333333333333333333zz\n2. 优化 66666663333666666666666666yyy\n3. 提高 6vvdddddd333333333333333333dddddddddddd" }
 ]

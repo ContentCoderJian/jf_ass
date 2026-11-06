@@ -1,4 +1,4 @@
 [
   { "versionCode": 27, "versionName": "3.3.4", "force": false, "changelog": "1. 修复一些UI显示异常问题\n2. 优化升级功能，显示版本更新内容" },
-  { "versionCode": 28, "versionName": "3.3.5", "force": false, "changelog": "1. 电视端升级支持其他设备推送安装包" }
+  { "versionCode": 28, "versionName": "3.3.5", "force": false, "changelog": "1. 电视端升级支持其他设备推送apk\n2. 修复弹幕在片源加载阶段反复横跳\n3. 优化升级体验" }
 ]

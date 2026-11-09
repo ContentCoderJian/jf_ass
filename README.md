@@ -1,1 +1,1 @@
-https://purge.jsdelivr.net/gh/ContentCoderJian/jf_ass@main/s.json
+

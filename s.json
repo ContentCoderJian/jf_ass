@@ -1,5 +1,6 @@
 [
   { "versionCode": 27, "versionName": "3.3.4", "force": false, "changelog": "1. 修复一些UI显示异常问题\n2. 优化升级功能，显示版本更新内容" },
   { "versionCode": 28, "versionName": "3.3.5", "force": false, "changelog": "1. 电视端升级支持其他设备推送apk\n2. 修复弹幕在片源加载阶段反复横跳\n3. 优化升级体验" },
-  { "versionCode": 29, "versionName": "3.3.6", "force": false, "changelog": "优化了直播体验：更新内置直播源，新增江苏地方台支持" }
+  { "versionCode": 29, "versionName": "3.3.6", "force": false, "changelog": "优化了直播体验：更新内置直播源，新增江苏地方台支持" },
+  { "versionCode": 30, "versionName": "3.3.7", "force": false, "changelog": "1. 直播源新增对应logo图标显示\n2. 支持更多倍速播放\n3. 搜索支持模糊查询" }
 ]

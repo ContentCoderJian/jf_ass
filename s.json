@@ -3,5 +3,6 @@
   { "versionCode": 28, "versionName": "3.3.5", "force": false, "changelog": "1. 电视端升级支持其他设备推送apk\n2. 修复弹幕在片源加载阶段反复横跳\n3. 优化升级体验" },
   { "versionCode": 29, "versionName": "3.3.6", "force": false, "changelog": "优化了直播体验：更新内置直播源，新增江苏地方台支持" },
   { "versionCode": 30, "versionName": "3.3.7", "force": false, "changelog": "1. 直播源新增对应logo图标显示\n2. 支持更多倍速播放\n3. 搜索支持模糊查询" },
-  { "versionCode": 31, "versionName": "3.3.8", "force": false, "changelog": "1. 播放器卡住后自动恢复播放，不再长时间转圈\n2. HLS 直播与点播播放更稳定，减少卡顿和重复加载\n3. 修复解析器并发加载和缓存计算异常" }
+  { "versionCode": 31, "versionName": "3.3.8", "force": false, "changelog": "1. 播放器卡住后自动恢复播放，不再长时间转圈\n2. HLS 直播与点播播放更稳定，减少卡顿和重复加载\n3. 修复解析器并发加载和缓存计算异常" },
+  { "versionCode": 32, "versionName": "3.3.9", "force": false, "changelog": "添加直播收藏功能" }
 ]
